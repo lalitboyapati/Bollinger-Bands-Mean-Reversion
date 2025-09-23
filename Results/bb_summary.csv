@@ -1,0 +1,2 @@
+ticker,period,bb_window,bb_k,init_cash,final_equity,CAGR,Sharpe,MaxDrawdown,NumTrades,WinRate,AvgTradePct,Costs_bps,Leverage,AllowShorts
+SPY,2015-01-28 → 2025-09-15,20,2.0,100000,83939.92448366659,-0.01577807450511637,-0.04103003213599663,-0.4587762548845651,100,0.64,-0.0012078259760370672,2,1.0,True
