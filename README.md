@@ -34,6 +34,6 @@ This baseline strategy **lost money overall**, despite a 64% win rate. Improveme
 ## 🛠️ Setup
 Clone repo and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/bollinger-mean-reversion.git
+git clone https://github.com/lalitboyapati/bollinger-mean-reversion.git
 cd bollinger-mean-reversion
 pip install -r requirements.txt
