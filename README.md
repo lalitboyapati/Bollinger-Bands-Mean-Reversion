@@ -36,4 +36,3 @@ Clone repo and install dependencies:
 ```bash
 git clone https://github.com/lalitboyapati/bollinger-mean-reversion.git
 cd bollinger-mean-reversion
-pip install -r requirements.txt
